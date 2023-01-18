@@ -2,6 +2,10 @@
 using namespace std;
 int main()
 {
-	cout<<"hello ethiopia";
+	int a;
+	cout<<"hello ethiopia"<<endl;
+	cout<<"enter ur age";
+	cin>>a;
+	
 	return 0;
 }
